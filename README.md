@@ -21,11 +21,11 @@ To train a model,<br/>
 g represents a group, r refers to the reward function. You can also train the model on data from adults or adolescents.
 
 Supported reward functions:-
-- Default
+- Default (Risk Diff)
 - Magni Reward
 - Cameron Reward
 - Reward Target
-- Risk Diff
+- Risk Event
 
 To evaluate a model on data from adult patients, <br/>
 `python apply_customized_controller.py -g child -r default`<br/>
