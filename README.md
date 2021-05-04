@@ -3,17 +3,14 @@ This repository contains the codebase of our automated artificial pancreas contr
 
 
 # Contributors
-Sudip Paul
-
-Projna Paromita
-
+Sudip Paul <br/>
+Projna Paromita <br/>
 Anurag Das
 
 Usage
 ============
 To install the necessary packages, run the following command:-<br/>
 `pip install -r requirements.txt`<br/>
-Please use python 3
 
 To train a model,<br/>
 `python ACKTR_train.py -g child -r default`<br/>
@@ -28,6 +25,7 @@ Supported reward functions:-
 
 To evaluate a model on data from adult patients, <br/>
 `python apply_customized_controller.py -g child -r default`<br/>
+
 A number of pre-trained models are available under the "Saved_models" directory
 
 Base Code
