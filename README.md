@@ -1,10 +1,17 @@
 # Automated_Arftificial_Pancreas_Controller
 This repository contains the codebase of our automated artificial pancreas controller project for Reinforcement Learning (CSCE 689) 
 
+Project Report
+===========
+[https://drive.google.com/file/d/1NF2-H5fGxqc8IxsVThwfp_MdxLeD5IFN/view?usp=sharing](https://drive.google.com/file/d/1NF2-H5fGxqc8IxsVThwfp_MdxLeD5IFN/view?usp=sharing)
+
+Slides
+========
+[https://drive.google.com/file/d/1rKY3VlANGWD1iEt-YFXfr_pmaEA4gWIp/view?usp=sharing](https://drive.google.com/file/d/1rKY3VlANGWD1iEt-YFXfr_pmaEA4gWIp/view?usp=sharing)
 
 Demo Link
 ==========
-
+[https://drive.google.com/file/d/1HYExmBszsDEkmc2K0DPLY3QcIE4DnbfJ/view?usp=sharing](https://drive.google.com/file/d/1HYExmBszsDEkmc2K0DPLY3QcIE4DnbfJ/view?usp=sharing)
 
 # Contributors
 Sudip Paul <br/>
